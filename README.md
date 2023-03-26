@@ -10,8 +10,8 @@ Squirtle Squad
 
 Impact (50 Points Total)
 Does the entry establish a clear challenge using their problem statement? (10 points)
-Judge 1 : 4 / 10 points
-Judge 2 : 5 / 10 points
+- Judge 1 : 4 / 10 points
+- Judge 2 : 5 / 10 points
 
 Do they explain clearly which (Selected SDG) they chose for their solution and why? (10 points)
 Judge 1 : 8 / 10 points
