@@ -14,33 +14,33 @@ Does the entry establish a clear challenge using their problem statement? (10 po
 - Judge 2 : 5 / 10 points
 
 Do they explain clearly which (Selected SDG) they chose for their solution and why? (10 points)
-Judge 1 : 8 / 10 points
-Judge 2 : 8 / 10 points
+- Judge 1 : 8 / 10 points
+- Judge 2 : 8 / 10 points
 
 Does the team clearly describe three feedback points they received from real users and the steps they took to test them? (5 points)
-Judge 1 : 0 / 5 points
-Judge 2 : 0 / 5 points
+- Judge 1 : 0 / 5 points
+- Judge 2 : 0 / 5 points
 
 Is there evidence of what the team learned and how the solution was iterated upon based on user feedback? (5 points)
-Judge 1 : 0 / 5 points
-Judge 2 : 1 / 5 points
+- Judge 1 : 0 / 5 points
+- Judge 2 : 1 / 5 points
 
 Does the solution address the challenge (and problem statement) identified by the team? Does the team adequately describe the success of their solution using metrics, goals, and outcomes, or through cause and effect? (10 points)
-Judge 1 : 4 / 10 points
-Judge 2 : 3 / 10 points
+- Judge 1 : 4 / 10 points
+- Judge 2 : 3 / 10 points
 
 Is there evidence of next steps? Does the team display a clear plan for future extension to a larger audience if they were to continue? (10 points)
-Judge 1 : 4 / 10 points
-Judge 2 : 1 / 10 points
+- Judge 1 : 4 / 10 points
+- Judge 2 : 1 / 10 points
 
 Technology (10 Points Total)
 Does the team clearly describe the following: architecture, high-level components, responsibility of each component, specific products and platform they implemented? Has the team clearly explained what Google technology they used and why? (5 points)
-Judge 1 : 3 / 5 points
-Judge 2 : 3 / 5 points
+- Judge 1 : 3 / 5 points
+- Judge 2 : 3 / 5 points
 
 Does the solution implement all the technical components needed to solve the challenge? (5 points)
-Judge 1 : 1 / 5 points
-Judge 2 : 2 / 5 points
+- Judge 1 : 1 / 5 points
+- Judge 2 : 2 / 5 points
 
 ## Links
 
